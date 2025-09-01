@@ -8,25 +8,29 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 - This repository: https://github.com/cmustudent/tswd-portfolio-templates/
 
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should consider purchasing or donating to my work.
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hello, I'm Stephen. I'm enrolled in the Heinz MISM-BIDA program where I'm currently in my first year. In my spare time, I like to watch tennis, play pickleball, and practice pieces on the piano. A fun fact about me is that I'm an identical twin.
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+I think data visualization is something that I can improve upon; in my professional experience, I've often struggled to find aesthetically pleasing ways to present data. I'd like to learn and develop some good rules of thumb that I can apply to data visualization through practice and theory.
 
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+After I graduate, I'm likely to return to my job working in the public sector but with a focus on data. In the meantime, while I'm at Heinz, I'd like to gain experience working in the private sector which is what I am targeting for my summer internship. 
 
 # Portfolio
+
+## Assignment A
+TBD
+
+## Assignment B
+TBD
+
+## Assignment C
+TBD
+
+## Final Project
+TBD
 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 

@@ -7,6 +7,8 @@ This is my public portfolio for Telling Stories with Data at CMU!  Here's where 
 # About me
 Hello, I'm Stephen. I'm enrolled in the Heinz MISM-BIDA program where I'm currently in my first year. In my spare time, I like to watch tennis, play pickleball, and practice pieces on the piano. A fun fact about me is that I'm an identical twin.
 
+<img src="Calvin and Hobbes.jpg" width="300"/>
+
 # What I hope to learn
 I think data visualization is something that I can improve upon; in my professional experience, I've often struggled to find aesthetically pleasing ways to present data. I'd like to learn and develop some good rules of thumb that I can apply to data visualization through practice and theory.
 

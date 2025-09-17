@@ -64,3 +64,5 @@ As a result of splitting the two charts, I felt that the reference line had to b
 For the last iteration, I simply made the bars go horizontal instead of vertical. I think this makes it easier to read the chart since the reader doesn't have to go all the way down to find the country and then go all the way down to find the price-they can simply read from left to right. Additionally, since the axes are all the way on the bottom, the reader is forced to use the labels to make comparisons instead of the bar heights.
 
 **I very much like this chart compared to the first one but I still don't know if I like it more than the original. I think my redesigns are still bland compared to the original chart, though they are more professional. I draw the analogy to the redesigns of brand logos; though they may look more simple and sleek, they lack the charm that their older logos convey.**
+
+**Lastly, I used ChatGPT only to help me figure out how to use some functions in Tableau. I did not use it to critique my designs or even modify the underlying data.**

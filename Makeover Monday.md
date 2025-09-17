@@ -1,4 +1,4 @@
-## Makeover Monday Assignment
+## Makeover Monday
 
 For this assignment, I selected the visualization on this website: [Cost of Mobile Data Worldwide](https://www.visualcapitalist.com/cost-of-mobile-data-worldwide/). 
 

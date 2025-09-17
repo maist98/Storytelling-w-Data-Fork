@@ -39,7 +39,7 @@ After I graduate, I'm likely to return to my job working in the public sector bu
 </script>
 
 ## Assignment C: [Makeover Monday](Makeover%20Monday.md)
-TBD
+Please open the link to view the assignment.
 
 ## Final Project [Part I] | [Part 2] | [Part 3]
 TBD

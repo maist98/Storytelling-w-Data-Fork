@@ -38,7 +38,7 @@ After I graduate, I'm likely to return to my job working in the public sector bu
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-## Assignment C [assignment C]
+## Assignment C: [Makeover Monday](makeover-monday)
 TBD
 
 ## Final Project [Part I] | [Part 2] | [Part 3]

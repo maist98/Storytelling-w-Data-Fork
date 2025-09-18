@@ -39,7 +39,10 @@ After I graduate, I'm likely to return to my job working in the public sector bu
 </script>
 
 ## Assignment C: [Makeover Monday](https://maist98.github.io/Storytelling-w-Data-Fork/Makeover%20Monday.html)
-Please open the link to view the assignment.
+
+For this assignment, I had to choose an existing visualization and make changes to it in an attempt to improve it. 
+
+Click on the link next to the subtitle for the full assignment. 
 
 ## Final Project [Part I] | [Part 2] | [Part 3]
 TBD

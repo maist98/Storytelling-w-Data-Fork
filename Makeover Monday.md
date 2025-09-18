@@ -1,4 +1,4 @@
-## Makeover Monday
+# Makeover Monday
 
 For this assignment, I selected the visualization on this website: [Cost of Mobile Data Worldwide](https://www.visualcapitalist.com/cost-of-mobile-data-worldwide/). 
 
@@ -6,7 +6,7 @@ My first impression of the visualization was very positive. I liked how colorful
 
 Once I started perusing the chart a little more, I realized that the biggest issue it suffered from was the fact that it was telling a completely different story than what its title would lead you to believe. The main purpose of the chart is to feed into the narrative that the price of mobile data is correlated with the amount of competition, and this narrative is depicted through the call-out texts dotted across the chart.
 
-# My Solution: The First Take
+## My Solution: The First Take
 
 <div class='tableauPlaceholder' id='viz1758132304537' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Mo&#47;MostandLeastExpensiveCostof1GB&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='MostandLeastExpensiveCostof1GB&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Mo&#47;MostandLeastExpensiveCostof1GB&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                
 <script type='text/javascript'>                    
@@ -31,7 +31,7 @@ This was the first iteration of my solution. I focused on a couple elements to r
 
 **Feedback:** Scale was the most common feedback I received, and multiple people suggested I split the chart into two. I received comments about possibly including more data points, that is, more countries. 
 
-# My Solution: The Retry
+## My Solution: The Retry
 
 <div class='tableauPlaceholder' id='viz1758133837695' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;Costof1GBRevised&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Costof1GBRevised&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;Costof1GBRevised&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
@@ -50,7 +50,7 @@ As a result of splitting the two charts, I felt that the reference line had to b
 
 **Feedback:** The only notable feedback I received was to reorder the Least Expensive subchart (as shown) so that the reader would be drawn to the least expensive first. I originally had the World Average on the left and India on the far right.
 
-# My Final Product
+## My Final Product
 
 <div class='tableauPlaceholder' id='viz1758135689918' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;Costof1GBRevisedFinal&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Costof1GBRevisedFinal&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;Costof1GBRevisedFinal&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    

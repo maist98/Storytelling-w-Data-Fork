@@ -19,13 +19,13 @@ Once I started perusing the chart a little more, I realized that the biggest iss
 
 This was the first iteration of my solution. I focused on a couple elements to redesign:
 
-&nbsp;&nbsp;&nbsp;&nbsp;Data: To tackle the problem of the jumbo of data in the original data set, I decided to reduce the data to the Top 5 most and least expensive countries, as these countries were specifically called out in the original data set. Though this wouldn't perfectly align with the original chart, I felt like it was a reasonable compromise between the stated purpose (title) and the intent (text callouts) of the chart. 
+&nbsp;&nbsp;&nbsp;&nbsp;**Data:** To tackle the problem of the jumbo of data in the original data set, I decided to reduce the data to the Top 5 most and least expensive countries, as these countries were specifically called out in the original data set. Though this wouldn't perfectly align with the original chart, I felt like it was a reasonable compromise between the stated purpose (title) and the intent (text callouts) of the chart. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;Title: Apropos to the data, it was necessary to rename the visualization to convey that I would not be displaying all the data.
+&nbsp;&nbsp;&nbsp;&nbsp;**Title:** Apropos to the data, it was necessary to rename the visualization to convey that I would not be displaying all the data.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Type: I opted away from the icons and went with a bar graph to better display the values. 
+&nbsp;&nbsp;&nbsp;&nbsp;**Type:** I opted away from the icons and went with a bar graph to better display the values. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;Labels: I chose only to label the most and least expensive countries since the original data set did focus on them. 
+&nbsp;&nbsp;&nbsp;&nbsp;**Labels:** I chose only to label the most and least expensive countries since the original data set did focus on them. 
   
 **Interestingly, though it does better display the data, I think this makes my chart insipid and flavorless. Though my chart is surely more professional and easy to understand, I don't think it has the "wow" factor or "pop" that the original one has.**
 

@@ -9,13 +9,6 @@ Once I started perusing the chart a little more, I realized that the biggest iss
 # My Solution: The First Take
 
 <div class='tableauPlaceholder' id='viz1758132304537' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Mo&#47;MostandLeastExpensiveCostof1GB&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='MostandLeastExpensiveCostof1GB&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Mo&#47;MostandLeastExpensiveCostof1GB&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                
-<script type='text/javascript'>                    
-  var divElement = document.getElementById('viz1758132304537');                    
-  var vizElement = divElement.getElementsByTagName('object')[0];                    
-  if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                     
-  var scriptElement = document.createElement('script');                    
-  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
-</script>
 
 This was the first iteration of my solution. I focused on a couple elements to redesign:
 
@@ -63,6 +56,6 @@ As a result of splitting the two charts, I felt that the reference line had to b
 
 For the last iteration, I simply made the bars go horizontal instead of vertical. I think this makes it easier to read the chart since the reader doesn't have to go all the way down to find the country and then go all the way down to find the price-they can simply read from left to right. Additionally, since the axes are all the way on the bottom, the reader is forced to use the labels to make comparisons instead of the bar heights.
 
-**I very much like this chart compared to the first one but I still don't know if I like it more than the original. I think my redesigns are still bland compared to the original chart, though they are more professional. I draw the analogy to the redesigns of brand logos; though they may look more simple and sleek, they lack the charm that their older logos convey.**
+**I am pleased with this chart compared to my first attempt but I still don't know if I like it more than the original. I think my redesigns are still bland compared to the original chart, though they are more professional. I draw the analogy to the modern redesigns of brand logos; though they may look more simple and sleek, they lack the charm that their older counterparts convey.**
 
 **Lastly, I used ChatGPT only to help me figure out how to use some functions in Tableau. I did not use it to critique my designs or even modify the underlying data.**

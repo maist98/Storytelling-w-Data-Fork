@@ -28,6 +28,8 @@ Lastly, I want to display some other comparable major metropolitan cities like D
 
 ## The Medium
 
+For now, I'm planning on using Tableau to compile my maps however I may use some other software if Tableau isn't user-friendly enough. I'll create a new Shorthand website to tell my story. Since I need to convince the audience that this endeavor is worthwhile, I want to make the website evoke feelings of nostalgia.
+
 ## Sources
 
 https://pittsburghquarterly.com/indicators/health/overweight-and-obesity/adult-overweight-and-obesity-rates/#:~:text=About%2034.6%20percent%20of%20adults,BMI%20of%2030%20or%20higher.

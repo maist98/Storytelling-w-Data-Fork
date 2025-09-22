@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](Final-Project-Part-I) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I]([Final-Project-Part-I](https://github.com/maist98/Storytelling-w-Data-Fork/blob/main/Final%20Project%20%7C%20Part%20I.md)) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 
 # Portfolio
@@ -44,7 +44,7 @@ For this assignment, I had to choose an existing visualization and make changes 
 
 Click on the link next to the subtitle for the full assignment. 
 
-## Final Project [Part I] | [Part 2] | [Part 3]
+## Final Project [Part I](https://github.com/maist98/Storytelling-w-Data-Fork/blob/main/Final%20Project%20%7C%20Part%20I.md) | [Part 2] | [Part 3]
 TBD
 
 

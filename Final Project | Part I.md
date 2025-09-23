@@ -1,4 +1,4 @@
-# Fast Food Desert: Pittsburgh, The Arrakis of Fast Food
+# Pittsburgh: A Fast Food Desert
 
 ## Introduction
 

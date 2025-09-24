@@ -55,6 +55,8 @@ Lastly, I plan on using either Google Maps or Apple Maps to display the fast foo
 
 For now, I'm planning on using Tableau to compile my maps however I may use some other software if Tableau isn't user-friendly enough. I'll create a new Shorthand website to tell my story. Since I need to convince the audience that this endeavor is worthwhile, I want to make the website evoke feelings of nostalgia.
 
+**Initial Feedback:** I received positive feedback from my peers about this project. However, it was suggested that I consider narrowing the scope; I could compare the counties of Pittsburgh instead of Pittsburgh against other metropolitan areas. Depending on how the dataset looks, I might do that since it aligns a little more with my call to action.
+
 ## Sources
 
 https://www.kaggle.com/datasets/imtkaggleteam/fast-food-restaurants-across-america

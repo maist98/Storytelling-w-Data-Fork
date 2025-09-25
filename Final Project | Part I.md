@@ -33,19 +33,19 @@ When people think about deserts, they think about a place that is lacking. While
     
 ## Initial Sketches
 
-Dot Plot to compare cost of an average meal. I want to add icons to the callouts in the actual viz.
+**Dot Plot to compare cost of an average meal. I want to add icons to the callouts in the actual viz.**
 
 <img src="Viz 1.JPG" width="300"/>
 
-Bar graph to compare incomes
+**Bar graph to compare incomes.**
 
 <img src="Viz 2.JPG" width="300"/>
 
-Hexmap with gradient to show # of restaurants per state. I think I want to change the color to something else.
+**Hexmap with gradient to show # of restaurants per state. I think I want to change the color to something else.**
 
 <img src="Viz 3.JPG" width="300"/>
 
-The following bar graphs just provide basic data. I think I need to spice them up with a summary sentence.
+**The following bar graphs just provide basic data. I think I need to spice them up with a summary sentence.**
 
 <img src="Viz 4.JPG" width="300"/>
 
@@ -53,7 +53,7 @@ The following bar graphs just provide basic data. I think I need to spice them u
 
 <img src="Viz 6.JPG" width="300"/>
 
-A very poorly drawn map of Pittsburgh. I plan on plotting all the fast food restaurants in Pittsburgh before proposing a new location.
+**A very poorly drawn map of Pittsburgh. I plan on plotting all the fast food restaurants in Pittsburgh before proposing a new location.**
 
 <img src="Viz 7.JPG" width="300"/>
 

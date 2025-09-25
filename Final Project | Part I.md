@@ -29,23 +29,34 @@ When people think about deserts, they think about a place that is lacking. While
 
 * Call to action
   * Visualization #7 (map): map of Pittsburgh of fast food locations
-  * Propose a new location Downtown
+  * Propose a new location Downtown [McDonald's Franchise Link](https://www.mcdonalds.com/us/en-us/about-us/franchising/franchising-form.html?cid=GA:USSF:USSF6:PPC-C::PPC&utm_term=mcdonalds%20franchise&utm_campaign=McDonalds+Franchise+Campaign+-+Conversion&utm_source=adwords&utm_medium=ppc&hsa_acc=9078027113&hsa_cam=20796188043&hsa_grp=157624513324&hsa_ad=755965563113&hsa_src=g&hsa_tgt=kwd-32225096&hsa_kw=mcdonalds%20franchise&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=20796188043&gbraid=0AAAAAqddkVLhWD-kbApZcrjH61QyiKJ68&gclid=Cj0KCQjwrc7GBhCfARIsAHGcW5Up_R8Q1FH-9dH4aPQ-EwPn_HLueCzhlr9dhZ2JgxJ6zMtekaYzpDAaAltGEALw_wcB)
     
 ## Initial Sketches
 
-<img src="Viz_1.jpg" width="300"/>
+Dot Plot to compare cost of an average meal. I want to add icons to the callouts in the actual viz.
 
-<img src="Viz 2.jpg" width="300"/>
+<img src="Viz 1.JPG" width="300"/>
 
-<img src="Viz 3.jpg" width="300"/>
+Bar graph to compare incomes
 
-<img src="Viz 4.jpg" width="300"/>
+<img src="Viz 2.JPG" width="300"/>
 
-<img src="Viz 5.jpg" width="300"/>
+Hexmap with gradient to show # of restaurants per state. I think I want to change the color to something else.
 
-<img src="Viz 6.jpg" width="300"/>
+<img src="Viz 3.JPG" width="300"/>
 
-<img src="Viz 7.jpg" width="300"/>
+The following bar graphs just provide basic data. I think I need to spice them up with a summary sentence.
+
+<img src="Viz 4.JPG" width="300"/>
+
+<img src="Viz 5.JPG" width="300"/>
+
+<img src="Viz 6.JPG" width="300"/>
+
+A very poorly drawn map of Pittsburgh. I plan on plotting all the fast food restaurants in Pittsburgh before proposing a new location.
+
+<img src="Viz 7.JPG" width="300"/>
+
 ## The Data
 
 To construct this story, I plan on using disparate sources of data and synthesizing elements from the data sets to create each element of my story. 

@@ -33,8 +33,19 @@ When people think about deserts, they think about a place that is lacking. While
     
 ## Initial Sketches
 
-TBD
+<img src="Viz_1.jpg" width="300"/>
 
+<img src="Viz 2.jpg" width="300"/>
+
+<img src="Viz 3.jpg" width="300"/>
+
+<img src="Viz 4.jpg" width="300"/>
+
+<img src="Viz 5.jpg" width="300"/>
+
+<img src="Viz 6.jpg" width="300"/>
+
+<img src="Viz 7.jpg" width="300"/>
 ## The Data
 
 To construct this story, I plan on using disparate sources of data and synthesizing elements from the data sets to create each element of my story. 

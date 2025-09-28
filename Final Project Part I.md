@@ -86,3 +86,5 @@ https://www.kaggle.com/datasets/imtkaggleteam/fast-food-restaurants-across-ameri
 https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/counties/totals/co-est2024-alldata.csv
 
 https://www.census.gov/library/visualizations/interactive/median-household-income.html
+
+https://www.ers.usda.gov/amber-waves/2018/june/higher-incomes-and-greater-time-constraints-lead-to-purchasing-more-convenience-foods

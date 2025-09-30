@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [Final-Project-Part-I](https://maist98.github.io/Storytelling-w-Data-Fork/Final%20Project%20Part%20I.html) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [Final-Project-Part-I](https://maist98.github.io/Storytelling-w-Data-Fork/Final%20Project%20Part%20I.html) | [Final-Project-Part-II](final-project-part-two) | [final project III](final-project-part-three) |
 
 
 # Portfolio

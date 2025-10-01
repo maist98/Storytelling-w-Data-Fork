@@ -1,5 +1,9 @@
 # Drafts, Wireframes, and User Research
 
+## Shorthand Draft
+
+[Preview](https://preview.shorthand.com/W46sWpogBHhBgutR)
+
 ## Purpose
 
 In this portion of the project, I needed to create a draft of my project and conduct interviews to further refine my project. 
@@ -44,7 +48,4 @@ Though the feedback was positive, I think it was too positive and people focused
 * This also implies I need to add another map below the National chloropleth for Pittsburgh
 * Though people felt I had enough data, I do want to incorporate a little more data, preferably from sources and not visualizations
 
-## Shorthand Draft
-
-[Preview](https://preview.shorthand.com/W46sWpogBHhBgutR)
-
+**AI Disclaimer:** I used AI to help me navigate through the functions of shorthand and Tableau. I did not use AI to critique or give me any design choices for my project.

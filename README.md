@@ -38,7 +38,7 @@ After I graduate, I'm likely to return to my job working in the public sector bu
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-## Assignment C: [Makeover Monday](https://maist98.github.io/Storytelling-w-Data-Fork/Makeover%20Monday.html)
+## Assignment: [Makeover Monday](https://maist98.github.io/Storytelling-w-Data-Fork/Makeover%20Monday.html)
 
 For this assignment, I had to choose an existing visualization and make changes to it in an attempt to improve it. 
 

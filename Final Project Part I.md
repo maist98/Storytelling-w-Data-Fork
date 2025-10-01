@@ -2,7 +2,7 @@
 
 ## Introduction
 
-When people think about deserts, they think about a place that is lacking. While Pittsburgh doesn't suffer from a lack of rain it does suffer from a lack of something else: **food**. Now, I'm not saying that you'll starve in Pittsburgh - the adult obesity rate is over 34% (Pittsburgh Quarterly) and restaurants dot  the city like spots on a leopard. But what I am saying is that if you want to find the quintessential staple of American cuisine, that is, fast food, you'll be out of look.
+When people think about deserts, they think about a place that is lacking. While Pittsburgh doesn't suffer from a lack of rain it does suffer from a lack of something else: **food**. Now, I'm not saying that you'll starve in Pittsburgh - the adult obesity rate is over 34% (Pittsburgh Quarterly) and restaurants dot  the city like spots on a leopard. But what I am saying is that if you want to find the quintessential staple of American cuisine, that is, fast food, you'll be out of luck.
 
 * **One Line Summary:** Pittsburgh has a shortage of fast food restaurants relative to other metropolitan areas
 * **For the Audience:** I want the audience to care about fast food, particularly its absence in Pittsburgh

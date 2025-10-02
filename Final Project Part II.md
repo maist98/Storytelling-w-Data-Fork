@@ -39,12 +39,12 @@ For the script, I'd like to gain clarity on these 4 aspects:
 
 ## Feedback and Changes
 
-Though the feedback was positive, I think it was too positive and people focused too much on the aesthetics rather than the content. I did like the feedback from Person #3 though, since it was more detailed than the others. I particularly enjoyed that Person #3 noticed the ominous mood I set in the opening title of the project. However, I do want to make the following changes:
+Though the feedback was positive, I think it was too positive and people focused too much on the aesthetics rather than the content. I did like the feedback from Person #3 though, since it was more detailed than the others. I particularly enjoyed that Person #3 noticed the ominous mood I set in the opening title of the project. Lastly, I received feedback from Part I that I should try to highlight the impact. Thus, I want to make the following changes:
 
 * Change the population chart to people per McDonald's instead of McDonald's per person. I think the latter doesn't really mean anything
 * Change the area chart to square miles per McDonald's instead of McDonald's per square mile. Like above, the latter doesn't really calculate into something that is easy to contextualize
 * Invert the trio charts to go from greatest to least to show that Pittsburgh is on the bottom
-* Reformat the order of the charts to go from geography -> why McDonald's
+* Reformat the order of the charts so that it goes from Intro -> significance -> geography -> call to action
 * This also implies I need to add another map below the National chloropleth for Pittsburgh
 * Though people felt I had enough data, I do want to incorporate a little more data, preferably from sources and not visualizations
 

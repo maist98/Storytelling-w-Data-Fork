@@ -37,6 +37,13 @@ Dataset: Mazzoni, Jacopo. McDonalds Complete USA Locations 2025. Kaggle dataset,
 
 4. Graver, Kristy. “The Big Mac Was Born near the ’Burgh.” Pittsburgh Magazine, Pittsburgh Magazine, 22 July 2024, www.pittsburghmagazine.com/the-big-mac-was-born-near-the-burgh/.
 
-5. “Median Household Income by County in the United States and Puerto Rico.” Census.Gov, US Census Bureau, 25 Oct. 2024, www.census.gov/library/visualizations/interactive/median-household-income.html.
+5. Harvard University Office of the General Counsel. Copyright and Fair Use Guide: BEA. July 2023. Harvard University Office of the General Counsel, ogc.harvard.edu, https://ogc.harvard.edu/sites/g/files/omnuum7071/files/ogc/files/ogc_copyright_and_fair_use_guide_bea_july_2023.pdf.
 
-6. Rahkovsky, Ilya, and Young Jo. “Higher Incomes and Greater Time Constraints Lead to Purchasing More Convenience Foods.” Higher Incomes and Greater Time Constraints Lead to Purchasing More Convenience Foods | Economic Research Service, USDA - Economic Research Service, 27 June 2018, www.ers.usda.gov/amber-waves/2018/june/higher-incomes-and-greater-time-constraints-lead-to-purchasing-more-convenience-foods.
+6. “Median Household Income by County in the United States and Puerto Rico.” Census.Gov, US Census Bureau, 25 Oct. 2024, www.census.gov/library/visualizations/interactive/median-household-income.html.
+
+7. Rahkovsky, Ilya, and Young Jo. “Higher Incomes and Greater Time Constraints Lead to Purchasing More Convenience Foods.” Higher Incomes and Greater Time Constraints Lead to Purchasing More Convenience Foods | Economic Research Service, USDA - Economic Research Service, 27 June 2018, www.ers.usda.gov/amber-waves/2018/june/higher-incomes-and-greater-time-constraints-lead-to-purchasing-more-convenience-foods.
+
+
+**FAIR USE DISCLAIMER: WORK IS PROTECTED BY THE FAIR USE DOCTRINE, SPECIFICALLY UNDER PURPOSE (EDUCATION), TRANSFORMATION (CONTRIBUTION AND COMMENTARY), AND EFFECT (NO PERCEIVED DETRIMENT TO MARKET). SEE HARVARD'S FAIR USE GUIDELINE REFERENCED ABOVE.**
+
+**AI USE: I USED AI ONLY TO WALK ME THROUGH FUNCTIONS OF TABLEAU, SHORTHAND, AND DATAWRAPPER. I DID NOT USE AI TO HELP ME WITH COMING UP WITH AN IDEA OR ANY STORY ELEMENTS OF THE PROJECT. I DID NOT USE AI TO CRITIQUE OR MODIFY ANY DESIGNS. WHY USE AI WHEN YOU HAVE mAI!!**

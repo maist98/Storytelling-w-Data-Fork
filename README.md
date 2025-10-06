@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [Final-Project-Part-I](https://maist98.github.io/Storytelling-w-Data-Fork/Final%20Project%20Part%20I.html) | [Final-Project-Part-II](https://maist98.github.io/Storytelling-w-Data-Fork/Final%20Project%20Part%20II.html) | [final project III](final-project-part-three) |
+| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [Final-Project-Part-I](https://maist98.github.io/Storytelling-w-Data-Fork/Final%20Project%20Part%20I.html) | [Final-Project-Part-II](https://maist98.github.io/Storytelling-w-Data-Fork/Final%20Project%20Part%20II.html) | [Final-Project-Part-III](https://github.com/maist98/Storytelling-w-Data-Fork/blob/main/Final%20Project%20Part%20III.html) |
 
 
 # Portfolio
@@ -44,4 +44,4 @@ For this assignment, I had to choose an existing visualization and make changes 
 
 Click on the link next to the subtitle for the full assignment. 
 
-## Final Project [Part I](https://maist98.github.io/Storytelling-w-Data-Fork/Final%20Project%20Part%20I.html) | [Part 2](https://maist98.github.io/Storytelling-w-Data-Fork/Final%20Project%20Part%20II.html)| [Part 3]
+## Final Project [Part I](https://maist98.github.io/Storytelling-w-Data-Fork/Final%20Project%20Part%20I.html) | [Part 2](https://maist98.github.io/Storytelling-w-Data-Fork/Final%20Project%20Part%20II.html)| [Part 3](https://github.com/maist98/Storytelling-w-Data-Fork/blob/main/Final%20Project%20Part%20III.html)

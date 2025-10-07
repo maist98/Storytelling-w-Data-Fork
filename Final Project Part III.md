@@ -10,7 +10,9 @@ I spent a lot of time after the feedback from Part II playing with the structure
 
 I also reworked my Pittsburgh vs Other Cities charts as suggested by my interviewees, where I flipped the chart to go from highest to lowest and reworked the ratio into something that is easier for the audience to contextualize.
 
-Lastly, I also took note of how long my project was for a 1-minute presentation, so I pinpointed specific charts and ideas that I wanted to get across and bookmarked them on Shorthand. This was an offside remark by two of my three interviewees who were concerned that there was too much in the project for an elevator pitch.
+I also took note of how long my project was for a 1-minute presentation, so I pinpointed specific charts and ideas that I wanted to get across and bookmarked them on Shorthand. This was an offside remark by two of my three interviewees who were concerned that there was too much in the project for an elevator pitch.
+
+Lastly, after the presentation (as discussed later), I changed the font of some of the text.
 
 ## Reflection
 
@@ -26,6 +28,7 @@ One of the things that I did not anticipate when I started the project was how m
 
 ## Final Presentation
 
+Overall, I think my final presentation went well. The live-presentation went a lot faster than my practice ones, and I suspect that it was due to nerves causing me to verbally slow down to collect my thoughts. I think I should have left out the chart of my survey comparing fast-food prices. There wasn't enough time and I think I got the "Why" across in the first introduction. Additionally, when I was looking at the text on the screen, the red font color wasn't a great choice. On my laptop it looks fine but on the big screen, it is difficult to read. 
 
 ## References
 
@@ -48,4 +51,4 @@ Dataset: Mazzoni, Jacopo. McDonalds Complete USA Locations 2025. Kaggle dataset,
 
 **FAIR USE DISCLAIMER: WORK IS PROTECTED BY THE FAIR USE DOCTRINE, SPECIFICALLY UNDER PURPOSE (EDUCATION), TRANSFORMATION (CONTRIBUTION AND COMMENTARY), AND EFFECT (NO PERCEIVED DETRIMENT TO MARKET). SEE HARVARD'S FAIR USE GUIDELINE REFERENCED ABOVE.**
 
-**AI USE: I USED AI ONLY TO WALK ME THROUGH FUNCTIONS OF TABLEAU, SHORTHAND, AND DATAWRAPPER. I DID NOT USE AI TO HELP ME WITH COMING UP WITH AN IDEA OR ANY STORY ELEMENTS OF THE PROJECT. I DID NOT USE AI TO CRITIQUE OR MODIFY ANY DESIGNS. WHY USE AI WHEN YOU HAVE mAI!!**
+**AI USE: I USED AI ONLY TO WALK ME THROUGH FUNCTIONS OF TABLEAU, SHORTHAND, AND DATAWRAPPER. I DID NOT USE AI TO HELP ME WITH COMING UP WITH AN IDEA OR ANY STORY ELEMENTS OF THE PROJECT. I DID NOT USE AI TO CRITIQUE OR MODIFY ANY DESIGNS. WHY USE AI WHEN YOU HAVE mAI!**

@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [Final-Project-Part-I](https://maist98.github.io/Storytelling-w-Data-Fork/Final%20Project%20Part%20I.html) | [Final-Project-Part-II](https://maist98.github.io/Storytelling-w-Data-Fork/Final%20Project%20Part%20II.html) | [Final-Project-Part-III](https://maist98.github.io/Storytelling-w-Data-Fork/Final%20Project%20Part%20III.html) | [Final-Project-Shorthand](https://app.shorthand.com/organisations/JSrgFWI7zn/stories/VeTfpjWHj8)
+| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [Final-Project-Part-I](https://maist98.github.io/Storytelling-w-Data-Fork/Final%20Project%20Part%20I.html) | [Final-Project-Part-II](https://maist98.github.io/Storytelling-w-Data-Fork/Final%20Project%20Part%20II.html) | [Final-Project-Part-III](https://maist98.github.io/Storytelling-w-Data-Fork/Final%20Project%20Part%20III.html) | [Final-Project-Shorthand](https://carnegiemellon.shorthandstories.com/tswd-final-project/index.html)
 
 
 # Portfolio
@@ -46,4 +46,4 @@ Click on the link next to the subtitle for the full assignment.
 
 ## Final Project [Part I](https://maist98.github.io/Storytelling-w-Data-Fork/Final%20Project%20Part%20I.html) | [Part II](https://maist98.github.io/Storytelling-w-Data-Fork/Final%20Project%20Part%20II.html)| [Part III](https://maist98.github.io/Storytelling-w-Data-Fork/Final%20Project%20Part%20III.html)
 
-Final Project [link](https://app.shorthand.com/organisations/JSrgFWI7zn/stories/VeTfpjWHj8)
+Final Project [link](https://carnegiemellon.shorthandstories.com/tswd-final-project/index.html)

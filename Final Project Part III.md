@@ -43,7 +43,7 @@ Dataset: Mazzoni, Jacopo. McDonalds Complete USA Locations 2025. Kaggle dataset,
 
 6. “Median Household Income by County in the United States and Puerto Rico.” Census.Gov, US Census Bureau, 25 Oct. 2024, www.census.gov/library/visualizations/interactive/median-household-income.html.
 
-7. Rahkovsky, Ilya, and Young Jo. “Higher Incomes and Greater Time Constraints Lead to Purchasing More Convenience Foods.” Higher Incomes and Greater Time Constraints Lead to Purchasing More Convenience Foods | Economic Research Service, USDA - Economic Research Service, 27 June 2018, www.ers.usda.gov/amber-waves/2018/june/higher-incomes-and-greater-time-constraints-lead-to-purchasing-more-convenience-foods.
+7. Rahkovsky, Ilya, and Young Jo. “Higher Incomes and Greater Time Constraints Lead to Purchasing More Convenience Foods.” Higher Incomes and Greater Time Constraints Lead to Purchasing More Convenience Foods, Economic Research Service, USDA - Economic Research Service, 27 June 2018, www.ers.usda.gov/amber-waves/2018/june/higher-incomes-and-greater-time-constraints-lead-to-purchasing-more-convenience-foods.
 
 
 **FAIR USE DISCLAIMER: WORK IS PROTECTED BY THE FAIR USE DOCTRINE, SPECIFICALLY UNDER PURPOSE (EDUCATION), TRANSFORMATION (CONTRIBUTION AND COMMENTARY), AND EFFECT (NO PERCEIVED DETRIMENT TO MARKET). SEE HARVARD'S FAIR USE GUIDELINE REFERENCED ABOVE.**

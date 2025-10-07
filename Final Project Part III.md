@@ -20,6 +20,8 @@ The two elements that I liked the most was my **Title** and my use of **Color**.
 
 I am also happy with my decision to narrow the scope of my project and only look at McDonald's as opposed to the fast-food industry as a whole. For one, the dataset I originally started off with turned out to be incomplete upon further perusal and second, it is hard to define exactly what chains constitute a fast-food restaurant. I think the dataset I ended up using contained enough data to tell the story I wanted to tell. Nevertheless, I think the original idea I had was a good one and helped me tell the story I ended up with.
 
+One of the challenges I had as I went along the project was defining exactly what my audience should be. On one hand, I did not want the project to be too esoteric that the presentation would be met with disinterest but on the other hand, I wanted to incorporate enough data to pique some business-minded individuals. As an elevator pitch, I think this project suffices but I would concede that it is not nearly enough to convince someone to start a franchise in Pittsburgh.
+
 One of the things that I did not anticipate when I started the project was how much I was going to rely on DataWrapper. I initially planned to do everything on Tableau but I found Tableau to be very user-unfriendly and incompatible with Shorthand. In all honesty, I think the project turned out more aesthetically pleasing using the presets on DataWrapper than struggling through each element of Tableau.
 
 ## Final Presentation

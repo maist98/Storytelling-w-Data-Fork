@@ -2,7 +2,7 @@
 
 ## Shorthand
 
-
+[https://preview.shorthand.com/W46sWpogBHhBgutR]
 
 ## Final Changes
 

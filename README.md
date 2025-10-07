@@ -44,4 +44,4 @@ For this assignment, I had to choose an existing visualization and make changes 
 
 Click on the link next to the subtitle for the full assignment. 
 
-## Final Project [Part I](https://maist98.github.io/Storytelling-w-Data-Fork/Final%20Project%20Part%20I.html) | [Part 2](https://maist98.github.io/Storytelling-w-Data-Fork/Final%20Project%20Part%20II.html)| [Part 3](https://maist98.github.io/Storytelling-w-Data-Fork/Final%20Project%20Part%20III.html)
+## Final Project [Part I](https://maist98.github.io/Storytelling-w-Data-Fork/Final%20Project%20Part%20I.html) | [Part II](https://maist98.github.io/Storytelling-w-Data-Fork/Final%20Project%20Part%20II.html)| [Part III](https://maist98.github.io/Storytelling-w-Data-Fork/Final%20Project%20Part%20III.html)

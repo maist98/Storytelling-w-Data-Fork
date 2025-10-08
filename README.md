@@ -46,4 +46,6 @@ Click on the link next to the subtitle for the full assignment.
 
 ## Final Project [Part I](https://maist98.github.io/Storytelling-w-Data-Fork/Final%20Project%20Part%20I.html) | [Part II](https://maist98.github.io/Storytelling-w-Data-Fork/Final%20Project%20Part%20II.html)| [Part III](https://maist98.github.io/Storytelling-w-Data-Fork/Final%20Project%20Part%20III.html)
 
+For this assignment, I had to pick a topic that I wanted to do a data visualization on and do a presentation in front of the class.
+
 Final Project [link](https://carnegiemellon.shorthandstories.com/tswd-final-project/index.html)

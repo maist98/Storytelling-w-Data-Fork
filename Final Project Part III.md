@@ -49,6 +49,6 @@ Dataset: Mazzoni, Jacopo. McDonalds Complete USA Locations 2025. Kaggle dataset,
 7. Rahkovsky, Ilya, and Young Jo. “Higher Incomes and Greater Time Constraints Lead to Purchasing More Convenience Foods.” Higher Incomes and Greater Time Constraints Lead to Purchasing More Convenience Foods, Economic Research Service, USDA - Economic Research Service, 27 June 2018, www.ers.usda.gov/amber-waves/2018/june/higher-incomes-and-greater-time-constraints-lead-to-purchasing-more-convenience-foods.
 
 
-**FAIR USE DISCLAIMER: WORK IS PROTECTED BY THE FAIR USE DOCTRINE, SPECIFICALLY UNDER PURPOSE (EDUCATION), TRANSFORMATION (CONTRIBUTION AND COMMENTARY), AND EFFECT (NO PERCEIVED DETRIMENT TO MARKET). SEE HARVARD'S FAIR USE GUIDELINE REFERENCED ABOVE.**
+**FAIR USE DISCLAIMER: Work is protected by the fair use doctrine, specifically under purpose (education), transformation (contribution and commentary), and effect (no perceived detriment to market). See Harvard's Fair Use Guideline referenced above.**
 
-**AI USE: I USED AI ONLY TO WALK ME THROUGH FUNCTIONS OF TABLEAU, SHORTHAND, AND DATAWRAPPER. I DID NOT USE AI TO HELP ME WITH COMING UP WITH AN IDEA OR ANY STORY ELEMENTS OF THE PROJECT. I DID NOT USE AI TO CRITIQUE OR MODIFY ANY DESIGNS. WHY USE AI WHEN YOU HAVE mAI!**
+**AI USE: I USED AI ONLY TO WALK ME THROUGH FUNCTIONS OF TABLEAU, SHORTHAND, AND DATAWRAPPER. I DID NOT USE AI TO HELP ME WITH COMING UP WITH AN IDEA OR ANY STORY ELEMENTS OF THE PROJECT. I DID NOT USE AI TO CRITIQUE OR MODIFY ANY DESIGNS.**
